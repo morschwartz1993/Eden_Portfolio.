@@ -23,7 +23,7 @@ $(document).ready(function(){
     });
     //typing animation script
     var typed=new Typed(".typing",{
-        strings:["Data analyst", "Data miner", "Great communicator", "Problem solver"],
+        strings:["Data analyst", "Data miner", "Creative", "Problem solver"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true,
